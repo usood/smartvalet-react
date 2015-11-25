@@ -1,10 +1,1 @@
-{
-  "name": "application-name",
-  "version": "1.0.0",
-  "description": "Application description.",
-  "scripts": {
-    "start": "meteor --settings settings-development.json",
-    "staging": "meteor deploy staging.meteor.com --settings settings-development.json",
-    "production": "meteor deploy production.meteor.com --settings settings-production.json"
-  }
-}
+{"name":"smartvaletv2","version":"0.0.1","private":true,"scripts":{"start":"react-native start"}}

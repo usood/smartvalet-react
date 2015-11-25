@@ -23,7 +23,6 @@ npm-container
 ecmascript
 digilord:faker
 kadira:flow-router
-kadira:blaze-layout
 meteorhacks:fast-render
 meteor-base
 session
@@ -34,3 +33,6 @@ reactive-var
 reactive-dict
 aldeed:collection2
 tracker
+accounts-facebook
+react
+kadira:react-layout
